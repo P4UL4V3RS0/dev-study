@@ -1,4 +1,4 @@
-# Dev Study
+# Dev Study :book:
 
 Dev Study é um projeto pessoal criado para registrar o conhecimento adquirido ao longo da disciplina de **Programação Web I** e **Programação Web II**.
 
